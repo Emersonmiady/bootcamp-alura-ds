@@ -1,0 +1,34 @@
+Introdução:
+- Contextualização 
+- Explicar o que é cobertura vacinal
+
+Análise dos dados:
+Ver a cobertura vacinal do sarampo e comparar com o mundo
+obs:
+- meta para a maioria das vacinas: 95%
+- meta para BCG: 90%
+- LIMITAÇÕES:
+  Citação: http://tabnet.datasus.gov.br/tabdata/LivroIDB/2edrev/f13.pdf
+
+Sendo assim, é melhor analisar os grupos restringindo mais a localidade:
+- Ver a cobertura vacinal do sarampo por região brasileira
+- Ver a cobertura vacinal do sarampo por Estado
+
+Possíveis explicações da queda na cobertura vacinal:
+
+Falta de equipamentos (agulhas e frascos por exemplo):
+Resposta: http://cebes.org.br/site/wp-content/uploads/2020/04/200408_nota_tecnica_disoc_61.pdf
+
+Horário de funcionamento ruim + queda do indice de confiança:
+Citação: https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/09/21/vacinacao-criancas-covid-19-coronavirus-cobertura-vacinal.htm
+
+Hesitação vacinal:
+Citação: https://www.uol.com.br/vivabem/noticias/redacao/2020/09/02/vacinacao-nao-e-obrigatoria-entenda-por-que-fala-do-presidente-e-perigosa.htm
+
+Movimento antivacina
+
+Parte final: 
+1. Recomendar o uso de vacinas, mostrar o estado da cv das outras vacinas.
+Ver com o plotly, a cobertura vacinal de todas as doenças e se possivel, comparar com o mundo
+
+2. Ver a taxa de abandono no Brasil

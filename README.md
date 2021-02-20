@@ -1,2 +1,2 @@
-# Bootcamp de Data Science Aplicado
-Algumas aulas e projetos feitos em um bootcamp da Alura.
+# Bootcamp de Data Science Aplicada
+Aqui serão armazenadas apenas as aulas feitas em cada módulo.
